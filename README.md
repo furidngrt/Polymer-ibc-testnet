@@ -89,6 +89,14 @@ BASE_BLOCKSCOUT_API_KEY='FILL_YOUR_EXPLORER_BASE_API_KEY'
 <p>
 TENDERLY_TOKEN='D0_NOT_FILL'
 
+
+Before Run make sure your address have faucet OP Sepolia and Base Sepolia
+
+Optimism Sepolia  : https://www.alchemy.com/faucets/optimism-sepolia
+<p>
+Base Sepolia : https://www.alchemy.com/faucets/base-sepolia
+
+
 ```
 just install
 ```
